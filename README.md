@@ -10,10 +10,10 @@
 ### Team Members
 | Roll Number | Name |
 | :--- | :--- |
-| `[Roll No. B24CS018]` | `[ANKITA SINGH]` |
-| `[Roll No. B24CS016]` | `[BIBHUTI KUMAR MISHRA]` |
-| `[Roll No. B24EC003]` | `[SHIVAM DAS]` |
-| `[Roll No. B24EC020]` | `[BOILLA AKSHITH REDDY]` |
+| `B24CS018` | `ANKITA SINGH` |
+| `B24CS016` | `BIBHUTI KUMAR MISHRA` |
+| `B24EC003` | `SHIVAM DAS` |
+| `B24EC020` | `BOILLA AKSHITH REDDY` |
 
 ---
 
